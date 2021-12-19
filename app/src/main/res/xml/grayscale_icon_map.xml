@@ -11,6 +11,42 @@
     <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
     <icon drawable="@drawable/aurora_store" package="com.aurora.store.nightly" name="Aurora Store" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
+    <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
+    <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.oppo.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.oplus.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.honor.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
+    <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.transsion.camera" name="Camera" />
+    <icon drawable="@drawable/chrome_beta" package="com.chrome.beta" name="Chrome Beta" />
+    <icon drawable="@drawable/chrome_dev" package="com.chrome.dev" name="Chrome Dev" />
+    <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
+    <icon drawable="@drawable/deviantart" package="com.deviantart.android.damobile" name="DeviantArt" />
+    <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
+    <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
+    <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
+    <icon drawable="@drawable/myjio" package="com.jio.myjio" name="MyJio" />
+    <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
+    <icon drawable="@drawable/files" package="com.sec.android.app.myfiles" name="Files" />
+    <icon drawable="@drawable/files" package="com.coloros.files" name="Files" />
+    <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
+    <icon drawable="@drawable/pocket_casts" package="au.com.shiftyjelly.pocketcasts" name="Pocket Casts" />
+    <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
+    <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
+    <icon drawable="@drawable/discord" package="com.aliucord" name="Discord" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger" name="Telegram" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
+    <icon drawable="@drawable/telegram" package="org.telegram.messenger.beta" name="Telegram" />
     <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
@@ -339,6 +375,13 @@
     <icon drawable="@drawable/swift_backup" package="org.swiftapps.swiftbackup" name="Swift Backup" />
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
     <icon drawable="@drawable/shopee" package="com.shopee.ph" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.my" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.id" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.tw" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.br" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.vn" name="Shopee" />
+    <icon drawable="@drawable/shopee" package="com.shopee.in" name="Shopee" />
+    <icon drawable="@drawable/sky_cotl" package="com.tgc.sky.android" name="Sky: Children of the Light" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
     <icon drawable="@drawable/microsoft_authenticator" package="com.azure.authenticator" name="Microsoft Authenticator" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
