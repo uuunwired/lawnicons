@@ -301,6 +301,38 @@
     <icon drawable="@drawable/pinterest" package="com.pinterest" name="Pinterest" />
     <icon drawable="@drawable/pixel_tips" package="com.google.android.apps.tips" name="Pixel Tips" />
     <icon drawable="@drawable/picpay" package="com.picpay" name="PicPay" />
+    <icon drawable="@drawable/whatsapp_business" package="com.whatsapp.w4b" name="WhatsApp Business" />
+    <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx" name="Microsoft Edge" />
+    <icon drawable="@drawable/microsoft_todo" package="com.microsoft.todos" name="Microsoft To Do" />
+    <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />    
+    <icon drawable="@drawable/soundcloud" package="com.soundcloud.android" name="SoundCloud" />
+    <icon drawable="@drawable/dialer" package="com.samsung.android.dialer" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.oneplus.dialer" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.sh.smart.caller" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.truecaller" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.incallui" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.phone" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts.activities.DialtactsActivity" name="Phone" />
+    <icon drawable="@drawable/messages" package="com.samsung.android.messaging" name="Messages" />
+    <icon drawable="@drawable/messages" package="com.android.messaging" name="Messages" />
+    <icon drawable="@drawable/messages" package="com.android.sms" name="Messages" />
+    <icon drawable="@drawable/messages" package="com.android.mms" name="Messages" />
+    <icon drawable="@drawable/messages" package="com.oneplus.mms" name="Messages" />
+    <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.miui.calculator" name="Calculator" />
+    <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.sec.android.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.oneplus.gallery" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.miui.gallery" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/browser" package="com.sec.android.app.sbrowser" name="Browser" />
+    <icon drawable="@drawable/browser" package="org.droidtr.jelly" name="Browser" />
+    <icon drawable="@drawable/sbrowser" package="com.sec.android.app.sbrowser" name="Samsung Internet Browser" />
+    <icon drawable="@drawable/sbrowser_beta" package="com.sec.android.app.sbrowser.beta" name="Samsung Internet Browser Beta" />
+    <icon drawable="@drawable/browser" package="org.lineageos.jelly" name="Browser" />
     <icon drawable="@drawable/plus_messenger" package="org.telegram.plus" name="Plus Messenger" />
     <icon drawable="@drawable/owlgram" package="it.owlgram.android" name="OwlGram" />
     <icon drawable="@drawable/pocket_casts" package="au.com.shiftyjelly.pocketcasts" name="Pocket Casts" />
