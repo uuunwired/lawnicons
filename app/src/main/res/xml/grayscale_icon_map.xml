@@ -630,4 +630,6 @@
     <icon drawable="@drawable/burgerking" package="led.android.burgerkingisrael" name="Burger King" />
     <icon drawable="@drawable/burgerking" package="com.burgerking.turk" name="Burger King" />
     <icon drawable="@drawable/burgerking" package="com.burgerkingqatar.android" name="Burger King" />
+    <icon drawable="@drawable/lightroom_mobile" package="com.adobe.lrmobile" name="Lightroom" />
+    <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
 </icons>
