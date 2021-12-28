@@ -266,6 +266,7 @@
     <icon drawable="@drawable/telegram_x" package="org.thunderdog.challegramtwo" name="Telegram X" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
+    <icon drawable="@drawable/threedmark" package="com.futuremark.dmandroid.application" name="3DMark" />
     <icon drawable="@drawable/tidal" package="com.aspiro.tidal" name="Tidal" />
     <icon drawable="@drawable/tiktok" package="com.ss.android.ugc.trill" name="TikTok" />
     <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok" />
