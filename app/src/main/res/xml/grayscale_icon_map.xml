@@ -80,6 +80,7 @@
     <icon drawable="@drawable/diskinfo" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/disney_plus" package="in.startv.hotstar.dplus" name="Disney+ Hotstar" />
     <icon drawable="@drawable/disney_plus_hotstar" package="me.kuder.diskinfo" name="DiskInfo" />
+    <icon drawable="@drawable/diskinfo" package="me.kuder.diskinfo" name="DiskInfo" />
     <icon drawable="@drawable/dolphin_emulator" package="org.dolphinemu.dolphinemu" name="Dolphin Emulator" />
     <icon drawable="@drawable/drastic_ds_emulator" package="com.dsemu.drastic" name="DraStic DS Emulator" />
     <icon drawable="@drawable/drivedroid" package="com.softwarebakery.drivedroid" name="DriveDroid" />
